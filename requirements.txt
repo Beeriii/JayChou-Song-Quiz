@@ -1,0 +1,6 @@
+# Jay Chou Music Quiz Requirements
+# This program uses only Python standard library modules
+# No external dependencies required
+
+# Python version requirement
+python>=3.6
